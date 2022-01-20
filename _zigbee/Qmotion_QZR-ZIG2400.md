@@ -1,6 +1,6 @@
 ---
 date_added: 2020-09-23
-model: HDM40PV620
+model: QZR-ZIG2400
 vendor: Qmotion
 title: Multi Channel QdR2 Remote
 category: cover
